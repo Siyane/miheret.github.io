@@ -1,0 +1,50 @@
+
+h1{
+font-size : xx-large ;
+margin-left: 5% ;
+margin-right: 5%;
+}
+
+hd{
+    font-size: xx-large ;
+    text-decoration-style: dotted ;
+    font-weight: bold ;
+}
+h2{
+    margin-left: 5%; 
+}
+div content{
+    background-image: url(cover.jpg)
+    
+}
+
+h6{
+    font-size: xx-large ;
+    font-family: 'Times New Roman', Times, serif ;
+    font-weight: bolder;  
+}
+h4{ 
+   margin-left: 5% ;
+    font-size: xx-large;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+body{
+    background-image: url(cover3.jpg)
+}
+h7{
+    font-size: xx-large;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    float: right
+    
+}
+
+h8{
+    font-size: xx-large;
+    float: center;
+
+}
